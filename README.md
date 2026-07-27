@@ -1,4 +1,4 @@
-# SSVEP-BCI-StrokeRehab
+# SSVEP-BCI-Rehabilitation
 稳态视觉诱发电位脑机接口信号处理系统
 面向脑卒中患者上下肢康复场景
 功能：脑电降噪、SSVEP特征提取、运动意图识别，驱动肢体康复器械
